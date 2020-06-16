@@ -1,2 +1,2 @@
 # React-ToDo-app
-In this application you can add you task, edit and delete it. 
+In this application you can add your task, edit and delete it. 
