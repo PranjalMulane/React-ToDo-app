@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PranjalMulane/React-ToDo-app/static/css/main.bcffa30d.chunk.css",
+    "main.js": "/PranjalMulane/React-ToDo-app/static/js/main.53dadf12.chunk.js",
+    "main.js.map": "/PranjalMulane/React-ToDo-app/static/js/main.53dadf12.chunk.js.map",
+    "runtime-main.js": "/PranjalMulane/React-ToDo-app/static/js/runtime-main.cfdcc04b.js",
+    "runtime-main.js.map": "/PranjalMulane/React-ToDo-app/static/js/runtime-main.cfdcc04b.js.map",
+    "static/js/2.84da8b19.chunk.js": "/PranjalMulane/React-ToDo-app/static/js/2.84da8b19.chunk.js",
+    "static/js/2.84da8b19.chunk.js.map": "/PranjalMulane/React-ToDo-app/static/js/2.84da8b19.chunk.js.map",
+    "index.html": "/PranjalMulane/React-ToDo-app/index.html",
+    "precache-manifest.e029f17b3dd4db3bf2a86296dd29bd45.js": "/PranjalMulane/React-ToDo-app/precache-manifest.e029f17b3dd4db3bf2a86296dd29bd45.js",
+    "service-worker.js": "/PranjalMulane/React-ToDo-app/service-worker.js",
+    "static/css/main.bcffa30d.chunk.css.map": "/PranjalMulane/React-ToDo-app/static/css/main.bcffa30d.chunk.css.map",
+    "static/js/2.84da8b19.chunk.js.LICENSE.txt": "/PranjalMulane/React-ToDo-app/static/js/2.84da8b19.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PranjalMulane/React-ToDo-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfdcc04b.js",
+    "static/js/2.84da8b19.chunk.js",
+    "static/css/main.bcffa30d.chunk.css",
+    "static/js/main.53dadf12.chunk.js"
+  ]
+}
